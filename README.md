@@ -51,3 +51,5 @@ python main.py
 ![TEST CASES](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png)
 
 ![OUTPUT](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
+
+![TEST](images/output.png)
