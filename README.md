@@ -1,5 +1,5 @@
 # exchange-rate-loader
-This project fetches exchange rate data from an API  for a provided base currency and displays its exchange rate for a specified duration. It also calculates the avergae value of each currency during that time period.
+This project fetches exchange rate data from an API  for a provided base currency and displays its exchange rate for a specified duration. It also calculates the avergae value of each currency during that time period.The project is completly configurable and will fetch for any base currency provided in the config file
 
 # Assumptions
 
