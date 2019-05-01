@@ -45,10 +45,10 @@ $ pipenv install
 python main.py
 
 # Screenshots
+There seems to be some error while adding links to images . Please refer the below type associated with each link
 
-![PIP ENV](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/pip-env-install.png)
+Pip env install screenshot : https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/pip-env-install.png
 
-![TEST CASES](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png)
+test cases : (https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png)
 
-![OUTPUT](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
-![TABLE RELATION](https://github.com/ashshetty90/etl-hourly-app/blob/master/blob/master/images/redshift-table-relation.png)
+output : (https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
