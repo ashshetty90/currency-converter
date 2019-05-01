@@ -12,6 +12,7 @@ The Architecture involves the following libraries:
 
 - Python 3.7
 - Pandas
+- sqlalchemy('in memory sql database')
 - built in request library
 - built in unittest library for testing
 
