@@ -25,7 +25,7 @@ The Architecture involves the following libraries:
 
 ```sh
 ### Python Application to do fetch legacy exchange rate data
-### Clone the repository [https://github.com/ashshetty90/etl-hourly-app.git]
+### Clone the repository [https://github.com/ashshetty90/exchange-rate-loader.git]
 
 ### First things First . Create a virtual environment and run the tests to make sure we are all set
 
