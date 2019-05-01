@@ -46,12 +46,8 @@ python main.py
 
 # Screenshots
 
-![Phell](images/pip-env-install.png)
+![PIP ENV](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/pip-env-install.png)
 
 ![TEST CASES](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png)
 
 ![OUTPUT](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
-
-![Alt text](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png?raw=true "Optional Title")
-
-
