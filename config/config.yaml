@@ -1,0 +1,5 @@
+api_url: "http://data.fixer.io/api/latest" # this api url is the only one allowed to be hit with a free fixer account
+access_key: "4dc13b6f008c4fbdd41720dc17ee1bd8" # this is not a good approach. Should use os environment variables to store api key
+base_currency: "EUR"
+start_date: "2017-05-01"
+end_date: "2019-05-01"
