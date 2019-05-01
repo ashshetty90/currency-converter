@@ -46,10 +46,10 @@ python main.py
 
 # Screenshots
 
-(https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/pip-env-install.png)
+![PIP ENV INSTALL](images/pip-env-install.png)
 
 ![TEST CASES](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png)
 
 ![OUTPUT](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
 
-![TABLE RELATION](https://github.com/ashshetty90/etl-hourly-app/blob/master/blob/master/images/redshift-table-relation.png)
+
