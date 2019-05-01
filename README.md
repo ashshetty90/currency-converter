@@ -52,4 +52,6 @@ python main.py
 
 ![OUTPUT](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
 
+![Alt text](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png?raw=true "Optional Title")
+
 
