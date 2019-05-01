@@ -46,7 +46,7 @@ python main.py
 
 # Screenshots
 
-![PIP ENV INSTALL](images/pip-env-install.png)
+![Phell](images/pip-env-install.png)
 
 ![TEST CASES](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png)
 
