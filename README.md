@@ -49,6 +49,6 @@ There seems to be some error while adding links to images . Please refer the bel
 
 Pip env install screenshot : https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/pip-env-install.png
 
-test cases : (https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png)
+test cases screenshot : (https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/test-cases.png)
 
-output : (https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
+output screenshot: (https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
