@@ -39,9 +39,14 @@ $ exchange-rate-loader/bin/activate
 $ pipenv install
 
 ### run the tests
- python3 -m unittest tests/exchange_rate_loader_test.py
+ python -m unittest tests/exchange_rate_loader_test.py
  
 ### run the app 
+python main.py
 
-python3 main.py
- 
+
+# Screenshots
+
+### Initial Steps
+
+![TEST CASES](
