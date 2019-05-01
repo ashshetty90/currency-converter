@@ -52,4 +52,4 @@ python main.py
 
 ![OUTPUT](https://github.com/ashshetty90/exchange-rate-loader/blob/master/images/output.png)
 
-
+![TABLE RELATION](https://github.com/ashshetty90/etl-hourly-app/blob/master/blob/master/images/redshift-table-relation.png)
